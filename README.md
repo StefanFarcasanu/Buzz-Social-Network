@@ -5,7 +5,8 @@ I have managed to build with a friend a small social network app called Buzz. Th
 # Used Technologies
 1) Java
 2) JavaFX
-3) PostgreSQL
-4) JUnit
-5) Hikari Connection Pool
-6) ITextPdf
+3) CSS
+4) PostgreSQL
+5) JUnit
+6) Hikari Connection Pool
+7) ITextPdf
